@@ -17,4 +17,4 @@ Este teste de edição do README.md serve apenas para me familiarizar com a plat
 
 ## Handson_01
 
-* [Notebook Entrega_h01.ipynb](https://xkcd.com/)
+* [Notebook Entrega_h01.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_01/Entrega_h01.ipynb)
