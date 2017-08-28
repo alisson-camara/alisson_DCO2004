@@ -1,9 +1,9 @@
 # alisson_DCO2004
 
-# Repositório para testes
+# Repositório para submissão dos protótipos da disciplina _Laboratório de Prototipação de sistemas de comunicação_
 ## Subseção
 
-Este teste de edição do README.md serve apenas para me familiarizar com a plataforma github
+Readme onde se localizam as entregas semanais
 
 ![Computer Vs Humans](https://imgs.xkcd.com/comics/computers_vs_humans.png)
 
@@ -18,3 +18,7 @@ Este teste de edição do README.md serve apenas para me familiarizar com a plat
 ## Handson_01
 
 * [Notebook Entrega_h01.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_01/Entrega_h01.ipynb)
+
+## Handson_02
+
+* [Notebook Entrega_h01.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_02/Entrega_h02.ipynb)
