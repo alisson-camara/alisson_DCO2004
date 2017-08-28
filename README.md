@@ -21,4 +21,4 @@ Readme onde se localizam as entregas semanais
 
 ## Handson_02
 
-* [Notebook Entrega_h01.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_02/Entrega_h02.ipynb)
+* [Notebook Entrega_h02.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_02/Entrega_h02.ipynb)
