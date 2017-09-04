@@ -10,7 +10,8 @@ Readme onde se localizam as entregas semanais
 * [Link para teste](https://xkcd.com/)
 
 
-# Relatórios semanais
+# Relatórios semanais (Unidade I){
+
 ## Handson_00
 
 * [Pasta com os resultados da primeira semana](https://github.com/alisson-camara/alisson_DCO2004/tree/master/handson_00)
@@ -22,3 +23,9 @@ Readme onde se localizam as entregas semanais
 ## Handson_02
 
 * [Notebook Entrega_h02.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_02/Entrega_h02.ipynb)
+
+## Handson_03
+
+* [Notebook Entrega_h02.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_03/Entrega_h03.ipynb)
+
+}
