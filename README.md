@@ -29,3 +29,15 @@ Readme onde se localizam as entregas semanais
 * [Notebook Entrega_h02.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/handson_03/Entrega_h03.ipynb)
 
 }
+
+## Handson_10
+
+* [Notebook Entrega_h10.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/Entrega_h10.ipynb)
+
+}
+
+## Handson_11
+
+* [Notebook Entrega_11.ipynb](https://github.com/alisson-camara/alisson_DCO2004/blob/master/Entrega_11.ipynb)
+
+}
